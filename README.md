@@ -26,14 +26,23 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/ghoshswapnadip7-coder">
+<p align="center">
+  <a href="https://github.com/ghoshswapnadip7-coder" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-  <a href="https://instagram.com/its_swapnadip108">
+  <a href="https://www.linkedin.com/in/swapnadip-ghosh-3669b33a1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="https://x.com/swapnadip_108" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  </a>
+  <a href="https://www.kaggle.com/itsswapnadip108" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="45"/>
+  </a>
+  <a href="https://instagram.com/its_swapnadip108" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
-  <a href="https://discord.gg/chodon_chodna2.0">
+  <a href="https://discord.gg/chodon_chodna2.0" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="45"/>
   </a>
 </p>
@@ -94,7 +103,3 @@
 
 ⭐ **If you like my work, don’t forget to star my repositories!**  
 🔥 *Let’s build something awesome together.*
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghoshswapnadip7-coder&show_icons=true&locale=en" alt="ghoshswapnadip7-coder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghoshswapnadip7-coder&" alt="ghoshswapnadip7-coder" /></p>
