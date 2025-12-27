@@ -1,30 +1,99 @@
-# Hi 👋, I'm its_swapnadip108
+<h1 align="center">Hi 👋, I'm Swapnadip Ghosh</h1>
 
-### A passionate developer
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghoshswapnadip7-coder" alt="ghoshswapnadip7-coder" /></a> </p>
-
-- 🔭 I'm currently working on *PortFolioMaker*
-
-- 🌱 I'm currently learning *React , Django , Flusk , Node*
-
-- 👯 I'm looking to collaborate on *open source project*
-
-- 📫 How to reach me *ghoshswapnadip7@gmail.com*
-
-- ⚡ Fun fact *i can't be too much serious*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ghoshswapnadip7-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ghoshswapnadip7-coder" height="30" width="40" /></a>
-<a href="https://instagram.com/its_swapnadip108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_swapnadip108" height="30" width="40" /></a>
-<a href="https://discord.gg/chodon_chodna2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chodon_chodna2.0" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+Developer;Full-Stack+Learner;Python+%7C+React+%7C+Django;Open+Source+Enthusiast;Building+Cool+Things+with+Code" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghoshswapnadip7-coder&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghoshswapnadip7-coder&show_icons=true&locale=en&layout=compact" alt="ghoshswapnadip7-coder" /></p>
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghoshswapnadip7-coder&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 🚀 About Me
+- 🔭 Currently working on **PortFolioMaker**
+- 🌱 Learning **React, Django, Flask, Node.js**
+- 👯 Open to collaborate on **Open Source Projects**
+- 📫 Reach me at **ghoshswapnadip7@gmail.com**
+- ⚡ Fun fact: *Not too serious in life, very serious in coding 😎*
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://github.com/ghoshswapnadip7-coder">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  <a href="https://instagram.com/its_swapnadip108">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  <a href="https://discord.gg/chodon_chodna2.0">
+    <img src="https://skillicons.dev/icons?i=discord" height="45"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,flask,django&perline=5"/>
+</p>
+
+---
+
+## 🎯 Featured Projects
+<p align="center">
+  <a href="https://github.com/ghoshswapnadip7-coder/PortFolioMaker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghoshswapnadip7-coder&repo=PortFolioMaker&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/ghoshswapnadip7-coder/rock-paper-scissor-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghoshswapnadip7-coder&repo=rock-paper-scissor-python&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghoshswapnadip7-coder&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghoshswapnadip7-coder&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshswapnadip7-coder&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghoshswapnadip7-coder&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 💡 What I Focus On
+- Writing **clean & scalable code**
+- Building **real-world projects**
+- Improving **logic & problem solving**
+- Growing as a **Full-Stack Developer**
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+⭐ **If you like my work, don’t forget to star my repositories!**  
+🔥 *Let’s build something awesome together.*
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghoshswapnadip7-coder&show_icons=true&locale=en" alt="ghoshswapnadip7-coder" /></p>
 
