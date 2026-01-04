@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swapnadip Ghosh</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+Developer;Full-Stack+Learner;Python+%7C+React+%7C+Django;Open+Source+Enthusiast;Building+Cool+Things+with+Code" />
-</p>
+<h2 align="center" style="color:#00F7FF;">
+  Full-Stack Developer in Progress 🚀
+</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghoshswapnadip7-coder&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Passionate+Developer;Full-Stack+Learner;Python+%7C+React+%7C+Django;Open+Source+Enthusiast;Building+Cool+Things+with+Code" />
 </p>
 
 ---
@@ -27,23 +27,23 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/ghoshswapnadip7-coder" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <a href="https://github.com/ghoshswapnadip7-coder">
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
   </a>
-  <a href="https://www.linkedin.com/in/swapnadip-ghosh-3669b33a1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <a href="https://www.linkedin.com/in/swapnadip-ghosh-3669b33a1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
-  <a href="https://x.com/swapnadip_108" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  <a href="https://x.com/swapnadip_108">
+    <img src="https://skillicons.dev/icons?i=twitter" height="48"/>
   </a>
-  <a href="https://www.kaggle.com/itsswapnadip108" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="45"/>
+  <a href="https://www.kaggle.com/itsswapnadip108">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="48"/>
   </a>
-  <a href="https://instagram.com/its_swapnadip108" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  <a href="https://instagram.com/its_swapnadip108">
+    <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
   </a>
-  <a href="https://discord.gg/chodon_chodna2.0" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="45"/>
+  <a href="https://discord.gg/chodon_chodna2.0">
+    <img src="https://skillicons.dev/icons?i=discord" height="48"/>
   </a>
 </p>
 
